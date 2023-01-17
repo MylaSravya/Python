@@ -1,0 +1,19 @@
+Links:
+    Course Details:
+    https://www.tinitiate.com/courses/python
+    https://www.tinitiate.com/courses/sql
+    https://www.tinitiate.com/courses/aws
+    Code:
+    https://github.com/tinitiate/python
+    
+    
+    
+Notes
+===================
+java / c++ / c#
+text File (code file) -> compiler -> binfile             -> executer -> runs the code
+                                     .class /.exe /.jar
+
+scripting
+perl / python /ruby /php
+text File (code file) -> compiler / executer -> runs the code

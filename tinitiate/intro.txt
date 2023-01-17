@@ -1,0 +1,21 @@
+
+
+Text File = Code
+Code -> Compiler -> Bin File
+Executor -> Bin File -> RUN
+
+int a = 1
+a = "a"
+
+code.java -> javac -> code.class
+java -> code.class
+
+code.cs -> clr -> code.class / exe / dll
+com.exe -> code.exe /.dll
+
+Scripting language
+PHP / perl / Ruby / Python
+
+Python
+Code -> Compiler -> RUN
+
